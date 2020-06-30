@@ -40,7 +40,7 @@
 
  仅中国大陆媒体代理连接 New!
  
- 常用js（自行获取Cookie）
+ 常用远程js（自行获取Cookie）
  
  
  *网易云音乐灰色解锁需要下载CA证书（https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt ），用Safari浏览器打开，进入「设置」>「通用」>「描述文件」，安装「UnblockNeteaseMusic Root CA」，并在「设置」>「通用」>「关于本机」>「证书信任设置」开启对「UnblockNeteaseMusic Root CA」的信任。
