@@ -1,4 +1,4 @@
-# quanx配置文件
+# quanx配置文件 https://github.com/HostCN/quanx/blob/master/quanx.conf 
 
  自动代理 / 全局代理
 
