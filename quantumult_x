@@ -178,7 +178,7 @@ https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean url script-reques
 ;6 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/Orz-3/task/master/videoqq.png,enabled=true
 
 # 京东种豆得豆 (By HostCN)
-1,7,27,37,57 7-21 * * * https://raw.githubusercontent.com/hostcn/a/master/jd_plantBean.js, tag=京东种豆得豆, img-url=https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png, enabled=true
+1 7-21/3 * * * https://raw.githubusercontent.com/hostcn/a/master/jd_plantBean.js, tag=京东种豆得豆, img-url=https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png, enabled=true
 
 # 京东农场 (By HostCN)
 # 京东App - 右下角"我的"- 游戏与互动-东东农场
