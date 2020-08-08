@@ -6059,7 +6059,6 @@ HOST-SUFFIX,promos.fling.com,AdBlock
 HOST-SUFFIX,promote.biz.weibo.cn,AdBlock
 HOST-SUFFIX,promote.caixin.com,AdBlock
 HOST-SUFFIX,promote.pair.com,AdBlock
-HOST-SUFFIX,promotion.aliyun.com,AdBlock
 HOST-SUFFIX,promotion.gomlab.com,AdBlock
 HOST-SUFFIX,promotions.iasbet.com,AdBlock
 HOST-SUFFIX,propellerads.com,AdBlock
